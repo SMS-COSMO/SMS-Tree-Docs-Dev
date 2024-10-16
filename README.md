@@ -1,6 +1,6 @@
 # SMS-Tree 开发者文档
 
-[**查看文档**](https://sms-tree-docs-dev.nuxt.dev/)
+[**查看文档**](https://sms-tree-docs-dev.netlify.app/)
 
 ## 本地开发
 
