@@ -9,11 +9,6 @@ actions:
   - name: 开始开发
     to: /introduction/hello-sms-tree
     leftIcon: 'lucide:code'
-  - name: 用户文档
-    variant: outline
-    to: https://sms-tree-docs.netlify.app/
-    target: '_blank'
-    leftIcon: 'lucide:users'
 ---
 
 #title
